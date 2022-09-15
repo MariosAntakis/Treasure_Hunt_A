@@ -4,7 +4,7 @@ This is the story and the rules of the game which you can also find in the code 
 
 You find yourself somewhere in an island with treasures, forests, mountainscaves, cliffs, a beech tree and of course sea all around.
 Your goal is to find the treasure as fast as possible without falling in the sea with the sharks.You have a map which you can see (X), or move north (B),
-    east (A), south (N), west (D), doing one move at a time.
+east (A), south (N), west (D), doing one move at a time.
     However your compass  isn't too accurate. There is only
     80% chance to move towards the desired direction, while
     there is 20%% chance to move diagonally right or left towards
