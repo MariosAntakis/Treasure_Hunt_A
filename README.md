@@ -1,5 +1,5 @@
 # Treasure_Hunt_A
-A project created by @MariosAntakis and @DimitriosDiakoloukas , about a treasure hunt game in c.
+A project created by @MariosAntakis and @DimitriosDiakoloukas , about a treasure hunt game in C.
 This is the story and the rules of the game which you can also find in the code and when you play the game:
 
 You find yourself somewhere in an island with treasures, forests, mountainscaves, cliffs, a beech tree and of course sea all around.
